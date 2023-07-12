@@ -39,7 +39,7 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: xtreme light
   email: xtremelight17@gmail.com # change to your email address
-  links:
+  # links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
     # - https://github.com/username # change to your github homepage
@@ -47,7 +47,7 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: _Q7rodCYG8MsJyj4mgbJzd3Boj9nUiQ4XBqk9Aqq2Ss# fill in to your verification string
+google_site_verification: "_Q7rodCYG8MsJyj4mgbJzd3Boj9nUiQ4XBqk9Aqq2Ss" # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
