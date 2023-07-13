@@ -20,7 +20,7 @@ timezone: Asia/Shanghai
 
 title: Light # the main title
 
-tagline: Xtreme Light's blog # it will display as the sub-title
+tagline: fufengwen's blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   fufengwen 的个人博客
@@ -92,7 +92,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: "Xtreme-Light/xtremelight.github.com" # <gh-username>/<repo>
+    repo: "fufengwen/fufengwen.github.com" # <gh-username>/<repo>
     repo_id: R_kgDOJ6tm_g
     category: General
     category_id: DIC_kwDOJ6tm_s4CX2Ge
